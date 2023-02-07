@@ -1,0 +1,75 @@
+1.	component
+2.	bootstrap
+3.	material UI
+4.	build and firebase deployment
+5.	Quiz App (Assignment)
+6.	React Router
+a.	nested routing
+b.	protected routes
+c.	dynamic routes
+d.	passing data to routes
+7.	login/signup (Assignment)
+8.	axios (E-Commerce App)
+9.	firebase database/authentication 
+10.	todo (Assignment)
+11.	react redux with firebase
+12.	rtk querry
+13.	context api
+14.	Boiler Plate 
+15.	Navigation
+16.	screens
+a.	login
+b.	signup
+c.	dashboard
+17.	Components
+a.	Input
+b.	Button
+c.	Table
+d.	switch
+e.	checkbox
+f.	radio
+g.	table
+h.	form grid
+i.	modal
+j.	showmessage
+18.	software (Class Assignment)
+19.	Hackthon
+20.	React Native Installation
+21.	UI
+22.	Style and basic components
+23.	Native Base,React Native Element
+a.	TextInput
+b.	Text
+c.	View
+d.	Switch
+e.	ScrollView	
+f.	TouchableOpacity
+g.	ToastAndroid
+h.	Alert
+i.	Button
+24.	Icons
+25.	Navigation
+26.	Camera
+27.	Axios
+28.	async storage
+29.	firebase (authentication/database)
+30.	Imagepicker
+31.	Map
+32.	notification
+33.	apk
+
+
+Back end
+34.	Node JS (Core)
+35.	Express JS
+a.	Server
+b.	Local APIs
+c.	Routers
+d.	Modules (Import/Export)
+36.	MongoDB
+a.	Connection
+b.	basic API (Post,Get,Put,Delete)
+37.	Authentication (with JWT)
+38.	Cloudinary
+39.	Zoom Integration (optional)
+40. backend deployment
